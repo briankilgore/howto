@@ -33,6 +33,7 @@
 				</p>
 				<h2>Code from above</h2>
 <?php
+echo "Hello, Brian!";
 $code = highlight_string('
 <?php
 	$version = phpversion();
